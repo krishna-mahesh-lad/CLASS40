@@ -1,0 +1,23 @@
+{
+  "gameState" : 0,
+  "playerCount" : 0,
+  "playerRank" : 1,
+  "players" : {
+    "player1" : {
+      "distance" : 4310,
+      "name" : "NETWORK"
+    },
+    "player2" : {
+      "distance" : 0,
+      "name" : "IS"
+    },
+    "player3" : {
+      "distance" : 0,
+      "name" : "VERY"
+    },
+    "player4" : {
+      "distance" : 0,
+      "name" : "GLITCHY"
+    }
+  }
+}
